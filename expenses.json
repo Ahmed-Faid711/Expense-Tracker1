@@ -1,0 +1,695 @@
+[
+    {
+        "ID": 1,
+        "Amount": 152.75,
+        "Category": "Home",
+        "Description": "Laundry",
+        "Date": "2025-01-30"
+    },
+    {
+        "ID": 3,
+        "Amount": 428.25,
+        "Category": "Shopping",
+        "Description": "Backpack",
+        "Date": "2025-03-29"
+    },
+    {
+        "ID": 4,
+        "Amount": 563.0,
+        "Category": "Subscriptions",
+        "Description": "App Subscription",
+        "Date": "2025-04-27"
+    },
+    {
+        "ID": 5,
+        "Amount": 700.75,
+        "Category": "Education",
+        "Description": "Python Book",
+        "Date": "2025-05-26"
+    },
+    {
+        "ID": 6,
+        "Amount": 838.5,
+        "Category": "Health",
+        "Description": "Medical Supplies",
+        "Date": "2025-06-24"
+    },
+    {
+        "ID": 7,
+        "Amount": 976.25,
+        "Category": "Transport",
+        "Description": "Taxi Ride",
+        "Date": "2025-07-23"
+    },
+    {
+        "ID": 8,
+        "Amount": 1111.0,
+        "Category": "Coffee",
+        "Description": "Pastry and Coffee",
+        "Date": "2025-08-21"
+    },
+    {
+        "ID": 9,
+        "Amount": 1248.75,
+        "Category": "Education",
+        "Description": "Notebook",
+        "Date": "2025-09-19"
+    },
+    {
+        "ID": 10,
+        "Amount": 1386.5,
+        "Category": "Bills",
+        "Description": "Electricity Bill",
+        "Date": "2025-10-18"
+    },
+    {
+        "ID": 11,
+        "Amount": 1524.25,
+        "Category": "Food",
+        "Description": "Bakery",
+        "Date": "2025-11-16"
+    },
+    {
+        "ID": 12,
+        "Amount": 1659.0,
+        "Category": "Coffee",
+        "Description": "Tea",
+        "Date": "2025-12-15"
+    },
+    {
+        "ID": 13,
+        "Amount": 1796.75,
+        "Category": "Entertainment",
+        "Description": "Streaming Rental",
+        "Date": "2026-01-13"
+    },
+    {
+        "ID": 14,
+        "Amount": 1934.5,
+        "Category": "Shopping",
+        "Description": "Phone Case",
+        "Date": "2026-02-11"
+    },
+    {
+        "ID": 15,
+        "Amount": 87.25,
+        "Category": "Food",
+        "Description": "Groceries",
+        "Date": "2026-03-12"
+    },
+    {
+        "ID": 16,
+        "Amount": 222.0,
+        "Category": "Home",
+        "Description": "Laundry",
+        "Date": "2026-04-10"
+    },
+    {
+        "ID": 17,
+        "Amount": 359.75,
+        "Category": "Health",
+        "Description": "Pharmacy",
+        "Date": "2026-05-09"
+    },
+    {
+        "ID": 18,
+        "Amount": 497.5,
+        "Category": "Shopping",
+        "Description": "Backpack",
+        "Date": "2026-06-07"
+    },
+    {
+        "ID": 19,
+        "Amount": 635.25,
+        "Category": "Subscriptions",
+        "Description": "App Subscription",
+        "Date": "2026-07-06"
+    },
+    {
+        "ID": 20,
+        "Amount": 770.0,
+        "Category": "Education",
+        "Description": "Python Book",
+        "Date": "2026-08-04"
+    },
+    {
+        "ID": 21,
+        "Amount": 907.75,
+        "Category": "Health",
+        "Description": "Medical Supplies",
+        "Date": "2026-09-02"
+    },
+    {
+        "ID": 22,
+        "Amount": 1045.5,
+        "Category": "Transport",
+        "Description": "Taxi Ride",
+        "Date": "2026-10-01"
+    },
+    {
+        "ID": 23,
+        "Amount": 1183.25,
+        "Category": "Coffee",
+        "Description": "Pastry and Coffee",
+        "Date": "2025-01-13"
+    },
+    {
+        "ID": 24,
+        "Amount": 1318.0,
+        "Category": "Education",
+        "Description": "Notebook",
+        "Date": "2025-02-11"
+    },
+    {
+        "ID": 25,
+        "Amount": 1455.75,
+        "Category": "Bills",
+        "Description": "Electricity Bill",
+        "Date": "2025-03-12"
+    },
+    {
+        "ID": 26,
+        "Amount": 1593.5,
+        "Category": "Food",
+        "Description": "Bakery",
+        "Date": "2025-04-10"
+    },
+    {
+        "ID": 27,
+        "Amount": 1731.25,
+        "Category": "Coffee",
+        "Description": "Tea",
+        "Date": "2025-05-09"
+    },
+    {
+        "ID": 28,
+        "Amount": 1866.0,
+        "Category": "Entertainment",
+        "Description": "Streaming Rental",
+        "Date": "2025-06-07"
+    },
+    {
+        "ID": 29,
+        "Amount": 18.75,
+        "Category": "Shopping",
+        "Description": "Phone Case",
+        "Date": "2025-07-06"
+    },
+    {
+        "ID": 30,
+        "Amount": 156.5,
+        "Category": "Food",
+        "Description": "Groceries",
+        "Date": "2025-08-04"
+    },
+    {
+        "ID": 31,
+        "Amount": 294.25,
+        "Category": "Home",
+        "Description": "Laundry",
+        "Date": "2025-09-02"
+    },
+    {
+        "ID": 32,
+        "Amount": 429.0,
+        "Category": "Health",
+        "Description": "Pharmacy",
+        "Date": "2025-10-01"
+    },
+    {
+        "ID": 33,
+        "Amount": 566.75,
+        "Category": "Shopping",
+        "Description": "Backpack",
+        "Date": "2025-10-30"
+    },
+    {
+        "ID": 34,
+        "Amount": 704.5,
+        "Category": "Subscriptions",
+        "Description": "App Subscription",
+        "Date": "2025-11-28"
+    },
+    {
+        "ID": 35,
+        "Amount": 842.25,
+        "Category": "Education",
+        "Description": "Python Book",
+        "Date": "2025-12-27"
+    },
+    {
+        "ID": 36,
+        "Amount": 977.0,
+        "Category": "Health",
+        "Description": "Medical Supplies",
+        "Date": "2026-01-25"
+    },
+    {
+        "ID": 37,
+        "Amount": 1114.75,
+        "Category": "Transport",
+        "Description": "Taxi Ride",
+        "Date": "2026-02-23"
+    },
+    {
+        "ID": 38,
+        "Amount": 1252.5,
+        "Category": "Coffee",
+        "Description": "Pastry and Coffee",
+        "Date": "2026-03-24"
+    },
+    {
+        "ID": 39,
+        "Amount": 1390.25,
+        "Category": "Education",
+        "Description": "Notebook",
+        "Date": "2026-04-22"
+    },
+    {
+        "ID": 40,
+        "Amount": 1525.0,
+        "Category": "Bills",
+        "Description": "Electricity Bill",
+        "Date": "2026-05-21"
+    },
+    {
+        "ID": 41,
+        "Amount": 1662.75,
+        "Category": "Food",
+        "Description": "Bakery",
+        "Date": "2026-06-19"
+    },
+    {
+        "ID": 42,
+        "Amount": 1800.5,
+        "Category": "Coffee",
+        "Description": "Tea",
+        "Date": "2026-07-18"
+    },
+    {
+        "ID": 43,
+        "Amount": 1938.25,
+        "Category": "Entertainment",
+        "Description": "Streaming Rental",
+        "Date": "2026-08-16"
+    },
+    {
+        "ID": 44,
+        "Amount": 88.0,
+        "Category": "Shopping",
+        "Description": "Phone Case",
+        "Date": "2026-09-14"
+    },
+    {
+        "ID": 45,
+        "Amount": 225.75,
+        "Category": "Food",
+        "Description": "Groceries",
+        "Date": "2026-10-13"
+    },
+    {
+        "ID": 46,
+        "Amount": 363.5,
+        "Category": "Home",
+        "Description": "Laundry",
+        "Date": "2025-01-25"
+    },
+    {
+        "ID": 47,
+        "Amount": 501.25,
+        "Category": "Health",
+        "Description": "Pharmacy",
+        "Date": "2025-02-23"
+    },
+    {
+        "ID": 48,
+        "Amount": 636.0,
+        "Category": "Shopping",
+        "Description": "Backpack",
+        "Date": "2025-03-24"
+    },
+    {
+        "ID": 49,
+        "Amount": 773.75,
+        "Category": "Subscriptions",
+        "Description": "App Subscription",
+        "Date": "2025-04-22"
+    },
+    {
+        "ID": 50,
+        "Amount": 911.5,
+        "Category": "Education",
+        "Description": "Python Book",
+        "Date": "2025-05-21"
+    },
+    {
+        "ID": 51,
+        "Amount": 1049.25,
+        "Category": "Health",
+        "Description": "Medical Supplies",
+        "Date": "2025-06-19"
+    },
+    {
+        "ID": 52,
+        "Amount": 1184.0,
+        "Category": "Transport",
+        "Description": "Taxi Ride",
+        "Date": "2025-07-18"
+    },
+    {
+        "ID": 53,
+        "Amount": 1321.75,
+        "Category": "Coffee",
+        "Description": "Pastry and Coffee",
+        "Date": "2025-08-16"
+    },
+    {
+        "ID": 54,
+        "Amount": 1459.5,
+        "Category": "Education",
+        "Description": "Notebook",
+        "Date": "2025-09-14"
+    },
+    {
+        "ID": 55,
+        "Amount": 1597.25,
+        "Category": "Bills",
+        "Description": "Electricity Bill",
+        "Date": "2025-10-13"
+    },
+    {
+        "ID": 56,
+        "Amount": 1732.0,
+        "Category": "Food",
+        "Description": "Bakery",
+        "Date": "2025-11-11"
+    },
+    {
+        "ID": 57,
+        "Amount": 1869.75,
+        "Category": "Coffee",
+        "Description": "Tea",
+        "Date": "2025-12-10"
+    },
+    {
+        "ID": 58,
+        "Amount": 22.5,
+        "Category": "Entertainment",
+        "Description": "Streaming Rental",
+        "Date": "2026-01-08"
+    },
+    {
+        "ID": 59,
+        "Amount": 160.25,
+        "Category": "Shopping",
+        "Description": "Phone Case",
+        "Date": "2026-02-06"
+    },
+    {
+        "ID": 60,
+        "Amount": 295.0,
+        "Category": "Food",
+        "Description": "Groceries",
+        "Date": "2026-03-07"
+    },
+    {
+        "ID": 61,
+        "Amount": 432.75,
+        "Category": "Home",
+        "Description": "Laundry",
+        "Date": "2026-04-05"
+    },
+    {
+        "ID": 62,
+        "Amount": 570.5,
+        "Category": "Health",
+        "Description": "Pharmacy",
+        "Date": "2026-05-04"
+    },
+    {
+        "ID": 63,
+        "Amount": 708.25,
+        "Category": "Shopping",
+        "Description": "Backpack",
+        "Date": "2026-06-02"
+    },
+    {
+        "ID": 64,
+        "Amount": 843.0,
+        "Category": "Subscriptions",
+        "Description": "App Subscription",
+        "Date": "2026-07-01"
+    },
+    {
+        "ID": 65,
+        "Amount": 980.75,
+        "Category": "Education",
+        "Description": "Python Book",
+        "Date": "2026-07-30"
+    },
+    {
+        "ID": 66,
+        "Amount": 1118.5,
+        "Category": "Health",
+        "Description": "Medical Supplies",
+        "Date": "2026-08-28"
+    },
+    {
+        "ID": 67,
+        "Amount": 1256.25,
+        "Category": "Transport",
+        "Description": "Taxi Ride",
+        "Date": "2026-09-26"
+    },
+    {
+        "ID": 68,
+        "Amount": 1391.0,
+        "Category": "Coffee",
+        "Description": "Pastry and Coffee",
+        "Date": "2025-01-08"
+    },
+    {
+        "ID": 69,
+        "Amount": 1528.75,
+        "Category": "Education",
+        "Description": "Notebook",
+        "Date": "2025-02-06"
+    },
+    {
+        "ID": 70,
+        "Amount": 1666.5,
+        "Category": "Bills",
+        "Description": "Electricity Bill",
+        "Date": "2025-03-07"
+    },
+    {
+        "ID": 71,
+        "Amount": 1804.25,
+        "Category": "Food",
+        "Description": "Bakery",
+        "Date": "2025-04-05"
+    },
+    {
+        "ID": 72,
+        "Amount": 1939.0,
+        "Category": "Coffee",
+        "Description": "Tea",
+        "Date": "2025-05-04"
+    },
+    {
+        "ID": 73,
+        "Amount": 91.75,
+        "Category": "Entertainment",
+        "Description": "Streaming Rental",
+        "Date": "2025-06-02"
+    },
+    {
+        "ID": 74,
+        "Amount": 229.5,
+        "Category": "Shopping",
+        "Description": "Phone Case",
+        "Date": "2025-07-01"
+    },
+    {
+        "ID": 75,
+        "Amount": 367.25,
+        "Category": "Food",
+        "Description": "Groceries",
+        "Date": "2025-07-30"
+    },
+    {
+        "ID": 76,
+        "Amount": 502.0,
+        "Category": "Home",
+        "Description": "Laundry",
+        "Date": "2025-08-28"
+    },
+    {
+        "ID": 77,
+        "Amount": 639.75,
+        "Category": "Health",
+        "Description": "Pharmacy",
+        "Date": "2025-09-26"
+    },
+    {
+        "ID": 78,
+        "Amount": 777.5,
+        "Category": "Shopping",
+        "Description": "Backpack",
+        "Date": "2025-10-25"
+    },
+    {
+        "ID": 79,
+        "Amount": 915.25,
+        "Category": "Subscriptions",
+        "Description": "App Subscription",
+        "Date": "2025-11-23"
+    },
+    {
+        "ID": 80,
+        "Amount": 1050.0,
+        "Category": "Education",
+        "Description": "Python Book",
+        "Date": "2025-12-22"
+    },
+    {
+        "ID": 81,
+        "Amount": 1187.75,
+        "Category": "Health",
+        "Description": "Medical Supplies",
+        "Date": "2026-01-20"
+    },
+    {
+        "ID": 82,
+        "Amount": 1325.5,
+        "Category": "Transport",
+        "Description": "Taxi Ride",
+        "Date": "2026-02-18"
+    },
+    {
+        "ID": 83,
+        "Amount": 1463.25,
+        "Category": "Coffee",
+        "Description": "Pastry and Coffee",
+        "Date": "2026-03-19"
+    },
+    {
+        "ID": 84,
+        "Amount": 1598.0,
+        "Category": "Education",
+        "Description": "Notebook",
+        "Date": "2026-04-17"
+    },
+    {
+        "ID": 85,
+        "Amount": 1735.75,
+        "Category": "Bills",
+        "Description": "Electricity Bill",
+        "Date": "2026-05-16"
+    },
+    {
+        "ID": 86,
+        "Amount": 1873.5,
+        "Category": "Food",
+        "Description": "Bakery",
+        "Date": "2026-06-14"
+    },
+    {
+        "ID": 87,
+        "Amount": 26.25,
+        "Category": "Coffee",
+        "Description": "Tea",
+        "Date": "2026-07-13"
+    },
+    {
+        "ID": 88,
+        "Amount": 161.0,
+        "Category": "Entertainment",
+        "Description": "Streaming Rental",
+        "Date": "2026-08-11"
+    },
+    {
+        "ID": 89,
+        "Amount": 298.75,
+        "Category": "Shopping",
+        "Description": "Phone Case",
+        "Date": "2026-09-09"
+    },
+    {
+        "ID": 90,
+        "Amount": 436.5,
+        "Category": "Food",
+        "Description": "Groceries",
+        "Date": "2026-10-08"
+    },
+    {
+        "ID": 91,
+        "Amount": 574.25,
+        "Category": "Home",
+        "Description": "Laundry",
+        "Date": "2025-01-20"
+    },
+    {
+        "ID": 92,
+        "Amount": 709.0,
+        "Category": "Health",
+        "Description": "Pharmacy",
+        "Date": "2025-02-18"
+    },
+    {
+        "ID": 93,
+        "Amount": 846.75,
+        "Category": "Shopping",
+        "Description": "Backpack",
+        "Date": "2025-03-19"
+    },
+    {
+        "ID": 94,
+        "Amount": 984.5,
+        "Category": "Subscriptions",
+        "Description": "App Subscription",
+        "Date": "2025-04-17"
+    },
+    {
+        "ID": 95,
+        "Amount": 1122.25,
+        "Category": "Education",
+        "Description": "Python Book",
+        "Date": "2025-05-16"
+    },
+    {
+        "ID": 96,
+        "Amount": 1257.0,
+        "Category": "Health",
+        "Description": "Medical Supplies",
+        "Date": "2025-06-14"
+    },
+    {
+        "ID": 97,
+        "Amount": 1394.75,
+        "Category": "Transport",
+        "Description": "Taxi Ride",
+        "Date": "2025-07-13"
+    },
+    {
+        "ID": 98,
+        "Amount": 1532.5,
+        "Category": "Coffee",
+        "Description": "Pastry and Coffee",
+        "Date": "2025-08-11"
+    },
+    {
+        "ID": 99,
+        "Amount": 1670.25,
+        "Category": "Education",
+        "Description": "Notebook",
+        "Date": "2025-09-09"
+    },
+    {
+        "ID": 100,
+        "Amount": 1805.0,
+        "Category": "Bills",
+        "Description": "Electricity Bill",
+        "Date": "2025-10-08"
+    }
+]
