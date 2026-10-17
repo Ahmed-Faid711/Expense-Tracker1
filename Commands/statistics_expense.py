@@ -42,9 +42,12 @@ def expense_category():
         ordered[key] = sum(value)
     return ordered 
 
-def montly_summary(month):
+def monthly_summary(month):
     current_year = str(datetime.datetime.now().year)
     date = current_year+'-'+month.zfill(2)+'-'
-    return search(date ,'Date')
+    return search(date ,'Date') 
+
+        
+    
 
 

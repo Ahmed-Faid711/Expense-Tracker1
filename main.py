@@ -167,17 +167,27 @@ while True:
                     print('Lowest Expense:')
                     expense_view.show(statistics_expense.lowest_expense())
                 case '5':
-                    month = str(input('Enter The Month: '))
-                    print('Monthly Summary'.center(30))
-                    expense_view.show(statistics_expense.montly_summary(month))
-                    
+                    month = input('Enter The Month: ')
+                    if is_valid(month):
+                        if int(month) in range(1,13):
+                            monthly_summary = statistics_expense.monthly_summary(month)
+                            
+                            if monthly_summary == []:
+                                print('There Is No Expenses')
+                            
+                            else:
+                                print('Monthly Summary'.center(30))
+                                expense_view.show(monthly_summary)
+                                print('Total Amount:',sum(statistics_expense.get_data("Amount", monthly_summary)))
+                        else:print('enter a valid month'.title())
+                    else:print('enter a valid month'.title())
                 case '6':
                     print('='*30)
                     print("Expenses By Category".center(30))
                     print('='*30)
                     expenses = statistics_expense.expense_category()
                     for key, value in expenses.items():
-                        print(f'{key}: {value}')
+                        print(f'{key : <15}: {value}')
 
                 case '7':
                     pass
