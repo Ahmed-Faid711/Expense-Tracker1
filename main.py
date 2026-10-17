@@ -144,12 +144,13 @@ while True:
             print('='*30)
             print("Statistics".center(30))
             print('='*30)
-            print('1- Total expenses')
-            print('2- Average expense')
-            print('3- Highest expense')
-            print('4- Lowest expense')
-            print('5- Expenses By Category')
-            print('6- break')
+            print('1- Total Expenses')
+            print('2- Average Expense')
+            print('3- Highest Expense')
+            print('4- Lowest Expense')
+            print('5- Monthly Summary')
+            print('6- Expenses By Category')
+            print('7- break')
             print('='*30)
             ###################################
 
@@ -166,6 +167,11 @@ while True:
                     print('Lowest Expense:')
                     expense_view.show(statistics_expense.lowest_expense())
                 case '5':
+                    month = str(input('Enter The Month: '))
+                    print('Monthly Summary'.center(30))
+                    expense_view.show(statistics_expense.montly_summary(month))
+                    
+                case '6':
                     print('='*30)
                     print("Expenses By Category".center(30))
                     print('='*30)
@@ -173,11 +179,12 @@ while True:
                     for key, value in expenses.items():
                         print(f'{key}: {value}')
 
-                case '6':
+                case '7':
                     pass
         case '7':
             break
     ##########################################
             
                 
-            
+
+    

@@ -1,4 +1,5 @@
 from Commands.load_save import read_expense
+
 def search(value, key):
     target = []
     expenses = read_expense()

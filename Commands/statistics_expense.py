@@ -1,5 +1,6 @@
 from Commands.load_save import read_expense
 from Commands.search_expense import search_amount, search
+import datetime
 
 def get_data(key,expenses = None):
     if expenses == None:
@@ -40,4 +41,10 @@ def expense_category():
     for key, value in ordered.items():
         ordered[key] = sum(value)
     return ordered 
-    
+
+def montly_summary(month):
+    current_year = str(datetime.datetime.now().year)
+    date = current_year+'-'+month.zfill(2)+'-'
+    return search(date ,'Date')
+
+
